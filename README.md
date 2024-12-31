@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Привет, я Федор!
 
-<!--
-**Frfor17/frfor17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик, специализирующийся на **Python**, **Django**, и **машинном обучении**. Люблю работать с данными, автоматизировать процессы и создавать полезные проекты.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Навыки
+- Python (Django, Flask)
+- SQL (PostgreSQL, MySQL)
+- Machine Learning (Scikit-learn, TensorFlow)
+- Веб-разработка (HTML, CSS, JavaScript)
+- Linux, Git
+
+---
+
+## 🚀 Проекты
+- [ML Project](https://github.com/your-repo): Предсказание цен на недвижимость с использованием ML.
+- [Blog Platform](https://github.com/your-repo): Веб-приложение для управления статьями.
+- [SQL Helper](https://github.com/your-repo): Инструмент для анализа данных на SQL.
+
+---
+
+## 📫 Связаться со мной
+- Email: brother@yandex.ru
+- Telegram: @fivetwoone
+
