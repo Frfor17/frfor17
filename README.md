@@ -24,6 +24,6 @@
 ---
 
 ## 📫 Связаться со мной
-- Email: brother@yandex.ru
+- Email: brother.23@yandex.ru
 - Telegram: @fivetwoone
 
