@@ -1,15 +1,18 @@
-# 👋 Привет, я Федор!
+# 👋 Hi!
 
 Я разработчик, специализирующийся на **Python**, **Django**, и **машинном обучении**. Люблю работать с данными, автоматизировать процессы и создавать полезные проекты.
 
 ---
 
 ## 🔧 Навыки
-- Python (Django, Flask)
-- SQL (PostgreSQL, MySQL)
-- Machine Learning (Scikit-learn, TensorFlow)
+- Python (Django(DRF), FastAPI, unittest/pytest)
+- SQL (PostgreSQL, MySQL) + MongoDB, ClickHouse, Greenpulm
+- Machine Learning (Scikit-learn, TensorFlow, PyTorch)
 - Веб-разработка (HTML, CSS, JavaScript)
 - Linux, Git
+- Docker, CI/CD, GitLab, Gitflow
+- Swagger, Nginx
+- RabbitMQ, Reddis
 
 ---
 
