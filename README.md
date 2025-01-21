@@ -12,7 +12,7 @@
 - Linux, Git
 - Docker, CI/CD, GitLab, Gitflow
 - Swagger, Nginx
-- RabbitMQ, Reddis
+- RabbitMQ, Redis
 
 ---
 
