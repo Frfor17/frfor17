@@ -13,7 +13,7 @@
 - Docker, CI/CD, GitLab, Gitflow
 - Swagger, Nginx
 - RabbitMQ, Redis
-![LeetCode Stats](https://leetcard.jacoblin.cool/ТВОЙ_НИК)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FfFfFFFf2)
 
 
 ---
