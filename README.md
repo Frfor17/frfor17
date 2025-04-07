@@ -29,3 +29,7 @@
 - Email: brother.23@yandex.ru
 - Telegram: @fivetwoone
 
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/FfFfFFFf2)
