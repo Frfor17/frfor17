@@ -1,7 +1,8 @@
 # 👋 
 
 DS & ML Engi
-Field of interest: end-to-end products, multiagent systems, Warehouse Robots
+
+**Field of interest**: end-to-end products, multiagent systems, Warehouse Robots
 
 ---
 ## Competitions:
