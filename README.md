@@ -31,4 +31,9 @@ DS & ML Engi
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frfor17&layout=compact&theme=radical)
+
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FfFfFFFf2)
