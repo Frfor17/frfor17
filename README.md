@@ -8,7 +8,7 @@ DS & ML Engi
 # Competitions:
 - Final [AI Finance Hack](https://changellenge.com/championships/aiforfinancehack/)(November 2025). Solution: RAG Chat is an assistant, with a lot of financial articles and other things, made to respond to support chat. Evaluated using the LLM-as-Judge method
 - 3d place [Ogon AI Hack](https://www.ogon.ai/)(Jan 2025). Solution: HR AI-powered web service that conducts interviews and analyzes responses based on the company's recruitment policy.
-- 23\11 Data Fusion(2025). Solution: Training a model for predicting the income of VTB Bank customers for issuing loans
+- 23\110 Data Fusion(2025). Solution: Training a model for predicting the income of VTB Bank customers for issuing loans
 - 3d place Alfa Cup(March 2024). Solutuion: Launch of app in the field of trade, to find suppliers
 - 3d place Changellenge Cup IT(Feb 2024). Solution: Training a model for finding inconsistencies in the supply of financial data between Sberbank subsidiaries
 
